@@ -1,0 +1,17 @@
+/home/hanta/SongTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hanta/SongTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hanta/SongTest/cmake-build-debug/Assignment1/CMakeFiles/Panorama.dir
+/home/hanta/SongTest/cmake-build-debug/Assignment1/CMakeFiles/edit_cache.dir
+/home/hanta/SongTest/cmake-build-debug/Assignment1/CMakeFiles/rebuild_cache.dir
+/home/hanta/SongTest/cmake-build-debug/Assignment2/CMakeFiles/RANSAC.dir
+/home/hanta/SongTest/cmake-build-debug/Assignment2/CMakeFiles/edit_cache.dir
+/home/hanta/SongTest/cmake-build-debug/Assignment2/CMakeFiles/rebuild_cache.dir
+/home/hanta/SongTest/cmake-build-debug/Assignment3/CMakeFiles/PnP.dir
+/home/hanta/SongTest/cmake-build-debug/Assignment3/CMakeFiles/edit_cache.dir
+/home/hanta/SongTest/cmake-build-debug/Assignment3/CMakeFiles/rebuild_cache.dir
+/home/hanta/SongTest/cmake-build-debug/Assignment4/CMakeFiles/PlaneFitting.dir
+/home/hanta/SongTest/cmake-build-debug/Assignment4/CMakeFiles/edit_cache.dir
+/home/hanta/SongTest/cmake-build-debug/Assignment4/CMakeFiles/rebuild_cache.dir
+/home/hanta/SongTest/cmake-build-debug/Assignment5/CMakeFiles/LidarProjection.dir
+/home/hanta/SongTest/cmake-build-debug/Assignment5/CMakeFiles/edit_cache.dir
+/home/hanta/SongTest/cmake-build-debug/Assignment5/CMakeFiles/rebuild_cache.dir

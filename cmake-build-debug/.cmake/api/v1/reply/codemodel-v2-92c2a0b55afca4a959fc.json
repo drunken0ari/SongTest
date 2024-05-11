@@ -1,0 +1,176 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Assignment1",
+					"jsonFile" : "directory-Assignment1-Debug-508993e4ac99bd8da4e9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Assignment1",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Assignment2",
+					"jsonFile" : "directory-Assignment2-Debug-e812f3f026d384b43f52.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Assignment2",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "Assignment3",
+					"jsonFile" : "directory-Assignment3-Debug-35216040d4044ef7d71a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Assignment3",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Assignment4",
+					"jsonFile" : "directory-Assignment4-Debug-5a2ee231b2da79fdeaea.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Assignment4",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Assignment5",
+					"jsonFile" : "directory-Assignment5-Debug-b7cb038b8b6fd6a3354f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Assignment5",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 5,
+					"id" : "LidarProjection::@6ca6ba7ac026d5e92a0d",
+					"jsonFile" : "target-LidarProjection-Debug-51402d9f3ea9e11db9ec.json",
+					"name" : "LidarProjection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Panorama::@9553da6de54d38b36d29",
+					"jsonFile" : "target-Panorama-Debug-71b2c79290a1142ccf34.json",
+					"name" : "Panorama",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "PlaneFitting::@4cf95c8d6059de0fc837",
+					"jsonFile" : "target-PlaneFitting-Debug-f3e2fb60c31d857c167b.json",
+					"name" : "PlaneFitting",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "PnP::@8c63d4c1d42d4c691fdc",
+					"jsonFile" : "target-PnP-Debug-16bad5c49498078a55a3.json",
+					"name" : "PnP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "RANSAC::@af5df8d6262920e7d234",
+					"jsonFile" : "target-RANSAC-Debug-81316c2120cc5dd8052a.json",
+					"name" : "RANSAC",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hanta/SongTest/cmake-build-debug",
+		"source" : "/home/hanta/SongTest"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
